@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
-__version__ = "0.0.6"
+__version__ = "0.0.7"
 REPO_NAME = "mangodbpackage"
-PKG_NAME = "mangod"
+PKG_NAME = "virat"
 AUTHOR_USER_NAME = "vinay"
 AUTHOR_EMAIL = "vinayakavirat008@gmail.com"
 
