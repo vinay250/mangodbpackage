@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name = "mongodba_connect"
+package_name = "mangod"
 
 list_of_files = [
    ".github/workflows/ci.yaml",
