@@ -16,7 +16,7 @@ setup(
     author_email=AUTHOR_EMAIL,
     description="A python package for connecting with a database.",
     long_description=long_description,
-    long_description_content_type="text/markdown",  # Corrected parameter name
+    long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
