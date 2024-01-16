@@ -12,7 +12,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.4"
 REPO_NAME = "mangodbpackage"
-PKG_NAME= "mongodb_connect"
+PKG_NAME= "mongodba_connect"
 AUTHOR_USER_NAME = "vinay"
 AUTHOR_EMAIL = "vinayakavirat008@gmail.com"
 
